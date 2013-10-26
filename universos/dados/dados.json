@@ -1,0 +1,91 @@
+{
+  "universo": {
+    "nome": "Dados",
+    "elemento": [
+      {
+        "nome": "face 1",
+        "imagem": "f1.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "1",
+          },
+          {
+            "nome": "face",
+            "valor": "ímpar"
+          }
+        ]
+      },
+      {
+        "nome": "face 2",
+        "imagem": "f2.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "2",
+          },
+          {
+            "nome": "face",
+            "valor": "par"
+          }
+        ]
+      },
+      {
+        "nome": "face 3",
+        "imagem": "f3.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "3",
+          },
+          {
+            "nome": "face",
+            "valor": "ímpar"
+          }
+        ]
+      },
+      {
+        "nome": "face 4",
+        "imagem": "f4.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "4",
+          },
+          {
+            "nome": "face",
+            "valor": "par"
+          }
+        ]
+      },
+      {
+        "nome": "face 5",
+        "imagem": "f5.png",
+        "atributo": [
+          {
+            "nome": "valor",
+             "valor": "5",
+          },
+          {
+            "nome": "face",
+            "valor": "ímpar"
+          }
+        ]
+      },
+      {
+        "nome": "face 6",
+        "imagem": "f6.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "6",
+          },
+          {
+            "nome": "face",
+            "valor": "par"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,667 @@
+{
+  "universo": {
+    "nome": "Futebol",
+    "elemento": [
+      {
+        "nome": "Goleiro",
+        "imagem": "az1.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "1",
+            "predicado": "goleiro"
+          },
+          {
+            "nome": "time",
+            "valor": "azul"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "az2.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "2",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "azul"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "az3.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "3",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "azul"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "az4.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "4",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "azul"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "az5.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "5",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "azul"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "az6.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "6",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "azul"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "az7.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "7",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "azul"
+          }
+        ]
+      },
+     {
+        "nome": "Meio-Campo",
+        "imagem": "az8.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "8",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "azul"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "az9.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "9",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "azul"
+          }
+        ]
+      },
+     {
+        "nome": "Atacante",
+        "imagem": "az10.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "10",
+            "predicado": "atacante"
+          },
+          {
+            "nome": "time",
+            "valor": "azul"
+          }
+        ]
+      },
+      {
+        "nome": "Atacante",
+        "imagem": "az11.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "11",
+            "predicado": "atacante"
+          },
+          {
+            "nome": "time",
+            "valor": "azul"
+          }
+        ]
+      },
+      {
+        "nome": "Goleiro",
+        "imagem": "vm1.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "1",
+            "predicado": "goleiro"
+          },
+          {
+            "nome": "time",
+            "valor": "vermelho"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "vm2.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "2",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "vermelho"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "vm3.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "3",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "vermelho"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "vm4.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "4",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "vermelho"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "vm5.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "5",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "vermelho"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "vm6.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "6",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "vermelho"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "vm7.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "7",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "vermelho"
+          }
+        ]
+      },
+     {
+        "nome": "Meio-Campo",
+        "imagem": "vm8.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "8",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "vermelho"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "vm9.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "9",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "vermelho"
+          }
+        ]
+      },
+     {
+        "nome": "Atacante",
+        "imagem": "vm10.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "10",
+            "predicado": "atacante"
+          },
+          {
+            "nome": "time",
+            "valor": "vermelho"
+          }
+        ]
+      },
+      {
+        "nome": "Atacante",
+        "imagem": "vm11.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "11",
+            "predicado": "atacante"
+          },
+          {
+            "nome": "time",
+            "valor": "vermelho"
+          }
+        ]
+      },
+         {
+        "nome": "Goleiro",
+        "imagem": "am1.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "1",
+            "predicado": "goleiro"
+          },
+          {
+            "nome": "time",
+            "valor": "amarelo"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "am2.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "2",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "amarelo"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "am3.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "3",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "amarelo"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "am4.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "4",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "amarelo"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "am5.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "5",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "amarelo"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "am6.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "6",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "amarelo"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "am7.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "7",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "amarelo"
+          }
+        ]
+      },
+     {
+        "nome": "Meio-Campo",
+        "imagem": "am8.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "8",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "amarelo"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "am9.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "9",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "amarelo"
+          }
+        ]
+      },
+     {
+        "nome": "Atacante",
+        "imagem": "am10.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "10",
+            "predicado": "atacante"
+          },
+          {
+            "nome": "time",
+            "valor": "amarelo"
+          }
+        ]
+      },
+      {
+        "nome": "Atacante",
+        "imagem": "am11.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "11",
+            "predicado": "atacante"
+          },
+          {
+            "nome": "time",
+            "valor": "amarelo"
+          }
+        ]
+      },
+      {
+        "nome": "Goleiro",
+        "imagem": "vd1.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "1",
+            "predicado": "goleiro"
+          },
+          {
+            "nome": "time",
+            "valor": "verde"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "vd2.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "2",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "verde"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "vd3.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "3",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "verde"
+          }
+        ]
+      },
+      {
+        "nome": "Zagueiro",
+        "imagem": "vd4.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "4",
+            "predicado": "zagueiro"
+          },
+          {
+            "nome": "time",
+            "valor": "verde"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "vd5.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "5",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "verde"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "vd6.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "6",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "verde"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "vd7.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "7",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "verde"
+          }
+        ]
+      },
+     {
+        "nome": "Meio-Campo",
+        "imagem": "vd8.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "8",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "verde"
+          }
+        ]
+      },
+      {
+        "nome": "Meio-Campo",
+        "imagem": "vd9.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "9",
+            "predicado": "meio-campo"
+          },
+          {
+            "nome": "time",
+            "valor": "verde"
+          }
+        ]
+      },
+     {
+        "nome": "Atacante",
+        "imagem": "vd10.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "10",
+            "predicado": "atacante"
+          },
+          {
+            "nome": "time",
+            "valor": "verde"
+          }
+        ]
+      },
+      {
+        "nome": "Atacante",
+        "imagem": "vd11.png",
+        "atributo": [
+          {
+            "nome": "jogador",
+            "valor": "11",
+            "predicado": "atacante"
+          },
+          {
+            "nome": "time",
+            "valor": "verde"
+          }
+        ]
+      }
+    ]
+  }
+}
