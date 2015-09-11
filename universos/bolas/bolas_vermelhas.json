@@ -1,0 +1,157 @@
+{
+  "universo": {
+    "nome": "Bolas vermelhas",
+    "elemento": [
+      {
+        "nome": "bola 0 vermelha",
+        "imagem": "bv0.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "0",
+            "predicado": "par"
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelha"
+          }
+        ]
+      },
+      {
+        "nome": "bola 1 vermelha",
+        "imagem": "bv1.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "1",
+            "predicado": "ímpar"
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelha"
+          }
+        ]
+      },
+      {
+        "nome": "bola 2 vermelha",
+        "imagem": "bv2.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "2",
+            "predicado": "par"
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelha"
+          }
+        ]
+      },
+      {
+        "nome": "bola 3 vermelha",
+        "imagem": "bv3.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "3",
+            "predicado": "ímpar"
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelha"
+          }
+        ]
+      },
+      {
+        "nome": "bola 4 vermelha",
+        "imagem": "bv4.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "4",
+            "predicado": "par"
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelha"
+          }
+        ]
+      },
+      {
+        "nome": "bola 5 vermelha",
+        "imagem": "bv5.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "5",
+            "predicado": "ímpar"
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelha"
+          }
+        ]
+      },
+      {
+        "nome": "bola 6 vermelha",
+        "imagem": "bv6.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "6",
+            "predicado": "par"
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelha"
+          }
+        ]
+      },
+      {
+        "nome": "bola 7 vermelha",
+        "imagem": "bv7.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "7",
+            "predicado": "ímpar"
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelha"
+          }
+        ]
+      },
+      {
+        "nome": "bola 8 vermelha",
+        "imagem": "bv8.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "8",
+            "predicado": "par"
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelha"
+          }
+        ]
+      },
+      {
+        "nome": "bola 9 vermelha",
+        "imagem": "bv9.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "9",
+            "predicado": "ímpar"
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelha"
+          }
+        ]
+      }
+    ]  
+  }
+}

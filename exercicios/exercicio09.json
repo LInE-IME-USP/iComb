@@ -1,0 +1,22 @@
+{
+    "Exercicio":
+        {
+            "enunGabarito": "Uma urna contêm 10 bolas vermelhas, em duas retiradas com reposição, quantas são as possibilidades de retirar 1 bola de valor ímpar e a outra com o valor 2?",
+            "tipoExercicio": 2,
+            "solucao": [
+                {
+                  "qtd": 1,
+                  "valor": "ímpar"
+                },
+                {
+                  "qtd": 1,
+                  "valor": "2"
+                }
+            ],
+            "resposta": 0,
+            "universoTipo": "bolas",
+            "universoSubTipo": "bolas_vermelhas",
+            "dica": "Tem-se 10 bolas enumeradas vermelhas",
+            "online": false
+        }
+}

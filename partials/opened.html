@@ -1,47 +1,53 @@
+<!--Janela Universo-->
 <div class="modal hide fade" id="universo">
   <div class="modal-header">
     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-    <h3>{{universo.universo.nome}}</h3>
+    <h3>Dica do Exercício:<!--Chamada:{{universo.universo.nome}}--></h3>
   </div>
   <div class="modal-body">
-    <p><span ng-repeat="el in universo.universo.elemento">
-      <img src="universos/{{exercicio.Exercicio.universoTipo}}/imagens/{{el.imagem}}" alt="{{el.nome}}"  title="{{el.nome}}" />
-  </span></p>
+    <span class="help-block well well-small"><i class="icon icon-info-sign"></i> {{exercicio.Exercicio.dica}} </span>
+     <!--<span ng-repeat="el in universo.universo.elemento">
+     <img src="universos/{{exercicio.Exercicio.universoTipo}}/imagens/{{el.imagem}}" alt="{{el.nome}}"  title="{{el.nome}}" />
+  </span>-->
   </div>
   <div class="modal-footer">
       <button type="button" class="btn" data-dismiss="modal" >Fechar</button>
   </div>
 </div>
+<!--Quadro Exercício-->
 <div class="row-fluid">
         <div class="well well-small">
-            <h5>Exercício:</h5>
-            <div class="well well-small">{{exercicio.Exercicio.enunGabarito}}<br /><a href="#universo" role="button" class="btn" data-toggle="modal">Detalhes do universo <b>{{universo.universo.nome}}</b></a></div>
-            <span class="help-block well well-small"><i class="icon icon-info-sign"></i> Ajuda: {{exercicio.Exercicio.dica}}</span>
+            <h4>Exercício</h4>
+            <div class="well well-small">{{exercicio.Exercicio.enunGabarito}}<br /><a href="#universo" role="button" class="btn" data-toggle="modal">Dica<!--Detalhes do universo <b>{{universo.universo.nome}}--></b></a></div>
+            <h4>Universo</h4>
+            <p><span ng-repeat="el in universo.universo.elemento">
+            <img src="universos/{{exercicio.Exercicio.universoTipo}}/imagens/{{el.imagem}}" alt="{{el.nome}}"  title="{{el.nome}}" /></p>
+  </span>
         </div>
     </div>
     <div class="row-fluid">
         <div class="well well-small">
-            <h5>
-                Estágio: (total: {{etapas.length}})
+            <h4>
+                Construção da solução <!--(total: {{etapas.length}})--> 
                     <div class="btn-group">
-                      <button class="btn btn-small" ng-click="novoEstagio()">Novo</button>
+                      <button class="btn btn-small" ng-click="novoEstagio()">Novo Estágio</button>
                       <button class="btn btn-small" ng-click="reiniciar()">Reiniciar</button>
                     </div>
-            </h5>
+            </h4>
         </div>
         <div class="span9" ng-repeat="etapa in etapas">
         <div class="span9">
             <div class="well">
                 <button type="button" class="close" ng-click="removerEtapa(this)">&times;</button>
-                Eu quero: <input type="text" class="input-mini" style="text-align: right" ng-model="etapa.numElementos" /> elementos que verifiquem
+                Eu quero <input type="text" class="input-mini" style="text-align: right" ng-model="etapa.numElementos" /> elementos que verifiquem
                 <select class="span3" ng-model="etapa.verifiquem">
-                    <option value="0">Nenhuma propriedade</option>
-                    <option value="1">Uma propriedade</option>
-                    <option value="2">Duas propriedades</option>
+                    <option value="0">nenhuma propriedade</option>
+                    <option value="1">uma propriedade</option>
+                    <option value="2">duas propriedades</option>
                 </select>
 
                 <div ng-show="etapa.verifiquem>0">
-                    escolha configurações que definem elementos de propriedade<br />
+                    Escolha as configurações que definem os elementos <br />
                     <select class="span3" ng-model="etapa.propriedades[0].tipo">
                         <option value="{{atr}}" ng-repeat="atr in atributos">{{atr}}</option>
                     </select>
@@ -55,6 +61,7 @@
                         <option value="{{atr}}" ng-repeat="atr in atributosValores[etapa.propriedades[0].tipo]">{{atr}}</option>
                     </select>
                 </div>
+
                 <div ng-show="etapa.verifiquem>1">e <br />
                     <select class="span3" ng-model="etapa.propriedades[1].tipo">
                         <option value="{{atr}}" ng-repeat="atr in atributos">{{atr}}</option>

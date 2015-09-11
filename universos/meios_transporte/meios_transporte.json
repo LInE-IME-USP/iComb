@@ -1,0 +1,157 @@
+{
+  "universo": {
+    "nome": "Meios de transporte",
+    "elemento": [
+          {
+            "nome": "Navio",
+            "imagem": "navio.png",
+            "atributo": [
+              {
+                "nome": "meio de transporte",
+                "valor": "grande porte",
+                "predicado": "cargas"
+              },
+              {
+                "nome": "transporte aquático",
+                "valor": "pessoas"
+              }
+            ]
+          },
+          {
+            "nome": "Barco",
+            "imagem": "barco.png",
+            "atributo": [
+              {
+                "nome": "meio de transporte",
+                "valor": "pequeno porte",
+                "predicado": ""
+              },
+              {
+                "nome": "transporte aquático",
+                "valor": "pessoas"
+              }
+            ]
+          },
+          {
+            "nome": "Trem",
+            "imagem": "trem.png",
+            "atributo": [
+              {
+                "nome": "meio de transporte",
+                "valor": "grande porte",
+                "predicado": "cargas"
+              },
+              {
+                "nome": "transporte terrestre",
+                "valor": "pessoas"
+              }
+            ]
+          },
+          {
+            "nome": "Ônibus",
+            "imagem": "bus.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "grande porte",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte terrestre",
+              "valor": "pessoas"
+          }
+        ]
+      },
+      {
+            "nome": "Caminhão",
+            "imagem": "caminhao.png",
+            "atributo": [
+              {
+                "nome": "meio de transporte",
+                "valor": "grande porte",
+                "predicado": ""
+              },
+              {
+                "nome": "transporte terrestre",
+                "valor": "cargas"
+              }
+            ]
+          },
+          {
+            "nome": "Carro",
+            "imagem": "carro.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "médio porte",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte terrestre",
+              "valor": "pessoas"
+          }
+        ]
+      },
+       {
+            "nome": "Moto",
+            "imagem": "moto.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "pequeno porte",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte terrestre",
+              "valor": "pessoas"
+          }
+        ]
+      },
+       {
+            "nome": "Bicicleta",
+            "imagem": "bike.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "mini porte",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte terrestre",
+              "valor": "pessoas"
+          }
+        ]
+      },
+       {
+            "nome": "Avião",
+            "imagem": "aviao.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "grande porte",
+             "predicado": "cargas"
+            },
+            {
+              "nome": "transporte aéreo",
+              "valor": "pessoas"
+          }
+        ]
+      },
+      {
+            "nome": "Helicóptero",
+            "imagem": "helicoptero.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "médio porte",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte aéreo",
+              "valor": "pessoas"
+          }
+        ]
+      }
+    ]
+  }
+}

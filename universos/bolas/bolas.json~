@@ -1,484 +1,304 @@
 {
   "universo": {
-    "nome": "Baralho de 32 cartas",
+    "nome": "colored balls",
     "elemento": [
       {
-        "nome": "Ás de ouros",
-        "imagem": "ad.gif",
+        "nome": "bola 0 vermelha",
+        "imagem": "bv0.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "diamonds",
-            "predicado": "red"
+            "nome": "valor",
+            "valor": "0",
+            "predicado": "par"
           },
           {
-            "nome": "value",
-            "valor": "ace"
+            "nome": "cor",
+            "valor": "vermelha"
           }
         ]
       },
       {
-        "nome": "7 de ouros",
-        "imagem": "7d.gif",
+        "nome": "bola 1 vermelha",
+        "imagem": "bv1.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "diamonds",
-            "predicado": "red"
+            "nome": "valor",
+            "valor": "1",
+            "predicado": "ímpar"
           },
           {
-            "nome": "value",
-            "valor": "7"
+            "nome": "cor",
+            "valor": "vermelha"
           }
         ]
       },
       {
-        "nome": "8 de ouros",
-        "imagem": "8d.gif",
+        "nome": "bola 2 vermelha",
+        "imagem": "bv2.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "diamonds",
-            "predicado": "red"
+            "nome": "valor",
+            "valor": "2",
+            "predicado": "par"
           },
           {
-            "nome": "value",
-            "valor": "8"
+            "nome": "cor",
+            "valor": "vermelha"
           }
         ]
       },
       {
-        "nome": "9 de ouros",
-        "imagem": "9d.gif",
+        "nome": "bola 3 vermelha",
+        "imagem": "bv3.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "diamonds",
-            "predicado": "red"
+            "nome": "valor",
+            "valor": "3",
+            "predicado": "ímpar"
           },
           {
-            "nome": "value",
-            "valor": "9"
+            "nome": "cor",
+            "valor": "vermelha"
           }
         ]
       },
       {
-        "nome": "10 de ouros",
-        "imagem": "td.gif",
+        "nome": "bola 4 vermelha",
+        "imagem": "bv4.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "diamonds",
-            "predicado": "red"
+            "nome": "valor",
+            "valor": "4",
+            "predicado": "par"
           },
           {
-            "nome": "value",
-            "valor": "10"
+            "nome": "cor",
+            "valor": "vermelha"
           }
         ]
       },
       {
-        "nome": "Valete de ouros",
-        "imagem": "jd.gif",
+        "nome": "bola 5 vermelha",
+        "imagem": "bv5.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "diamonds",
-            "predicado": "red"
+            "nome": "valor",
+            "valor": "5",
+            "predicado": "ímpar"
           },
           {
-            "nome": "value",
-            "valor": "jack"
+            "nome": "cor",
+            "valor": "vermelha"
           }
         ]
       },
       {
-        "nome": "Dama de ouros",
-        "imagem": "qd.gif",
+        "nome": "bola 6 vermelha",
+        "imagem": "bv6.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "diamonds",
-            "predicado": "red"
+            "nome": "valor",
+            "valor": "6",
+            "predicado": "par"
           },
           {
-            "nome": "value",
-            "valor": "queen"
+            "nome": "cor",
+            "valor": "vermelha"
           }
         ]
       },
       {
-        "nome": "Rei de ouros",
-        "imagem": "kd.gif",
+        "nome": "bola 7 vermelha",
+        "imagem": "bv7.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "diamonds",
-            "predicado": "red"
+            "nome": "valor",
+            "valor": "7",
+            "predicado": "ímpar"
           },
           {
-            "nome": "value",
-            "valor": "king"
+            "nome": "cor",
+            "valor": "vermelha"
           }
         ]
       },
       {
-        "nome": "Ás de espadas",
-        "imagem": "as.gif",
+        "nome": "bola 8 vermelha",
+        "imagem": "bv8.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "spades",
-            "predicado": "black"
+            "nome": "valor",
+            "valor": "8",
+            "predicado": "par"
           },
           {
-            "nome": "value",
-            "valor": "ace"
+            "nome": "cor",
+            "valor": "vermelha"
           }
         ]
       },
       {
-        "nome": "7 de espadas",
-        "imagem": "7s.gif",
+        "nome": "bola 9 vermelha",
+        "imagem": "bv9.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "spades",
-            "predicado": "black"
+            "nome": "valor",
+            "valor": "9",
+            "predicado": "ímpar"
           },
           {
-            "nome": "value",
-            "valor": "7"
+            "nome": "cor",
+            "valor": "vermelha"
+          }
+        ]
+      },
+            {
+        "nome": "bola 0 azul",
+        "imagem": "az0.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "0",
+            "predicado": "par"
+          },
+          {
+            "nome": "cor",
+            "valor": "azul"
           }
         ]
       },
       {
-        "nome": "8 de espadas",
-        "imagem": "8s.gif",
+        "nome": "bola 1 azul",
+        "imagem": "az1.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "spades",
-            "predicado": "black"
+            "nome": "valor",
+            "valor": "1",
+            "predicado": "ímpar"
           },
           {
-            "nome": "value",
-            "valor": "8"
+            "nome": "cor",
+            "valor": "azul"
           }
         ]
       },
       {
-        "nome": "9 de espadas",
-        "imagem": "9s.gif",
+        "nome": "bola 2 azul",
+        "imagem": "az2.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "spades",
-            "predicado": "black"
+            "nome": "valor",
+            "valor": "2",
+            "predicado": "par"
           },
           {
-            "nome": "value",
-            "valor": "9"
+            "nome": "cor",
+            "valor": "vermelha"
           }
         ]
       },
       {
-        "nome": "10 de espadas",
-        "imagem": "ts.gif",
+        "nome": "bola 3 azul",
+        "imagem": "az3.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "spades",
-            "predicado": "black"
+            "nome": "valor",
+            "valor": "3",
+            "predicado": "ímpar"
           },
           {
-            "nome": "value",
-            "valor": "10"
+            "nome": "cor",
+            "valor": "azul"
           }
         ]
       },
       {
-        "nome": "Valete de espadas",
-        "imagem": "js.gif",
+        "nome": "bola 4 azul",
+        "imagem": "az4.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "spades",
-            "predicado": "black"
+            "nome": "valor",
+            "valor": "4",
+            "predicado": "par"
           },
           {
-            "nome": "value",
-            "valor": "jack"
+            "nome": "cor",
+            "valor": "azul"
           }
         ]
       },
       {
-        "nome": "Dama de espadas",
-        "imagem": "qs.gif",
+        "nome": "bola 5 azul",
+        "imagem": "az5.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "spades",
-            "predicado": "black"
+            "nome": "valor",
+            "valor": "5",
+            "predicado": "ímpar"
           },
           {
-            "nome": "value",
-            "valor": "queen"
+            "nome": "cor",
+            "valor": "azul"
           }
         ]
       },
       {
-        "nome": "Rei de espadas",
-        "imagem": "ks.gif",
+        "nome": "bola 6 azul",
+        "imagem": "az6.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "spades",
-            "predicado": "black"
+            "nome": "valor",
+            "valor": "6",
+            "predicado": "par"
           },
           {
-            "nome": "value",
-            "valor": "king"
+            "nome": "cor",
+            "valor": "azul"
           }
         ]
       },
       {
-        "nome": "Ás de copas",
-        "imagem": "ah.gif",
+        "nome": "bola 7 azul",
+        "imagem": "az7.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "hearts",
-            "predicado": "red"
+            "nome": "valor",
+            "valor": "7",
+            "predicado": "ímpar"
           },
           {
-            "nome": "value",
-            "valor": "ace"
+            "nome": "cor",
+            "valor": "azul"
           }
         ]
       },
       {
-        "nome": "7 de copas",
-        "imagem": "7h.gif",
+        "nome": "bola 8 azul",
+        "imagem": "az8.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "hearts",
-            "predicado": "red"
+            "nome": "valor",
+            "valor": "8",
+            "predicado": "par"
           },
           {
-            "nome": "value",
-            "valor": "7"
+            "nome": "cor",
+            "valor": "azul"
           }
         ]
       },
       {
-        "nome": "8 de copas",
-        "imagem": "8h.gif",
+        "nome": "bola 9 azul",
+        "imagem": "az9.png",
         "atributo": [
           {
-            "nome": "suit",
-            "valor": "hearts",
-            "predicado": "red"
+            "nome": "valor",
+            "valor": "9",
+            "predicado": "ímpar"
           },
           {
-            "nome": "value",
-            "valor": "8"
-          }
-        ]
-      },
-      {
-        "nome": "9 de copas",
-        "imagem": "9h.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "hearts",
-            "predicado": "red"
-          },
-          {
-            "nome": "value",
-            "valor": "9"
-          }
-        ]
-      },
-      {
-        "nome": "10 de copas",
-        "imagem": "th.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "hearts",
-            "predicado": "red"
-          },
-          {
-            "nome": "value",
-            "valor": "10"
-          }
-        ]
-      },
-      {
-        "nome": "Valete de copas",
-        "imagem": "jh.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "hearts",
-            "predicado": "red"
-          },
-          {
-            "nome": "value",
-            "valor": "jack"
-          }
-        ]
-      },
-      {
-        "nome": "Dama de copas",
-        "imagem": "qh.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "hearts",
-            "predicado": "red"
-          },
-          {
-            "nome": "value",
-            "valor": "queen"
-          }
-        ]
-      },
-      {
-        "nome": "Rei de copas",
-        "imagem": "kh.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "hearts",
-            "predicado": "red"
-          },
-          {
-            "nome": "value",
-            "valor": "king"
-          }
-        ]
-      },
-      {
-        "nome": "Ás de paus",
-        "imagem": "ac.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "clubs",
-            "predicado": "black"
-          },
-          {
-            "nome": "value",
-            "valor": "ace"
-          }
-        ]
-      },
-      {
-        "nome": "7 de paus",
-        "imagem": "7c.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "clubs",
-            "predicado": "black"
-          },
-          {
-            "nome": "value",
-            "valor": "7"
-          }
-        ]
-      },
-      {
-        "nome": "8 de paus",
-        "imagem": "8c.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "clubs",
-            "predicado": "black"
-          },
-          {
-            "nome": "value",
-            "valor": "8"
-          }
-        ]
-      },
-      {
-        "nome": "9 de paus",
-        "imagem": "9c.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "clubs",
-            "predicado": "black"
-          },
-          {
-            "nome": "value",
-            "valor": "9"
-          }
-        ]
-      },
-      {
-        "nome": "10 de paus",
-        "imagem": "tc.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "clubs",
-            "predicado": "black"
-          },
-          {
-            "nome": "value",
-            "valor": "10"
-          }
-        ]
-      },
-      {
-        "nome": "Valete de paus",
-        "imagem": "jc.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "clubs",
-            "predicado": "black"
-          },
-          {
-            "nome": "value",
-            "valor": "jack"
-          }
-        ]
-      },
-      {
-        "nome": "Dama de paus",
-        "imagem": "qc.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "clubs",
-            "predicado": "black"
-          },
-          {
-            "nome": "value",
-            "valor": "queen"
-          }
-        ]
-      },
-      {
-        "nome": "Rei de paus",
-        "imagem": "kc.gif",
-        "atributo": [
-          {
-            "nome": "suit",
-            "valor": "clubs",
-            "predicado": "black"
-          },
-          {
-            "nome": "value",
-            "valor": "king"
+            "nome": "cor",
+            "valor": "azul"
           }
         ]
       }

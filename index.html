@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html ng-app="icomb">
   <head>
-    <title>iComb - versão HTML</title>
+    <title>Protótipo iCombH5</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -11,7 +11,8 @@
   <body>
     <div class="header">
         <h1><img src="img/header-{{currentLanguage}}.png" alt="iComb" /></h1>
-        <p class="pull-right i18n"><span ng-show="showBack"><a href="#/"><i class="icon-arrow-left"></i> {{ 'BackButton' | i18n }}</a> | </span><a href="" ng-click=""><img src="img/br.png" title="Português" ng-click="currentLanguage='pt'" /></a> <a href="" ng-click="currentLanguage='en'"><img src="img/en.png" title="Inglês" /></a></p>
+        <p class="pull-right i18n"><span ng-show="showBack">
+<a href="#/"><i class="icon-arrow-left"></i>{{ 'BackButton' | i18n }}</a> | </span><a href="" ng-click=""><img src="img/br.png" title="Português" ng-click="currentLanguage='pt'" /></a><a href="" ng-click="currentLanguage='fr'"><img src="img/fr.png" title="Francês" /></a><a href="" ng-click="currentLanguage='en'"><img src="img/en.png" title="Inglês" /></a><a href="" ng-click="currentLanguage='es'"><img src="img/es.png" title="Espanhol" /></a></p>
     </div>
 
     <div ng-view></div>

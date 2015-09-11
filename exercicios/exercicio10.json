@@ -1,0 +1,22 @@
+{
+    "Exercicio":
+        {
+            "enunGabarito": "Uma urna contêm 10 bolas azuis, em duas retiradas com reposição, quantas são as possibilidades de retirar 1 bola de valor par e a outra com o valor 9?",
+            "tipoExercicio": 2,
+            "solucao": [
+                {
+                  "qtd": 1,
+                  "valor": "par"
+                },
+                {
+                  "qtd": 1,
+                  "valor": "9"
+                }
+            ],
+            "resposta": 0,
+            "universoTipo": "bolas",
+            "universoSubTipo": "bolas_azuis",
+            "dica": "Tem-se 10 bolas enumeradas azuis",
+            "online": false
+        }
+}

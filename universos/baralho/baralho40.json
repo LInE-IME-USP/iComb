@@ -1,0 +1,607 @@
+{
+  "universo": {
+    "nome": "Baralho de 40 cartas",
+    "elemento": [
+      {
+        "nome": "Ás de ouros",
+        "imagem": "ad.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "diamonds",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "ace"
+          }
+        ]
+      },
+      {
+        "nome": "2 de ouros",
+        "imagem": "2d.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "diamonds",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "2"
+          }
+        ]
+      },
+      {
+        "nome": "3 de ouros",
+        "imagem": "3d.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "diamonds",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "3"
+          }
+        ]
+      },
+      {
+        "nome": "4 de ouros",
+        "imagem": "4d.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "diamonds",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "4"
+          }
+        ]
+      },
+      {
+        "nome": "5 de ouros",
+        "imagem": "5d.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "diamonds",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "5"
+          }
+        ]
+      },
+      {
+        "nome": "6 de ouros",
+        "imagem": "6d.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "diamonds",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "6"
+          }
+        ]
+      },
+      {
+        "nome": "7 de ouros",
+        "imagem": "7d.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "diamonds",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "7"
+          }
+        ]
+      },
+      {
+        "nome": "Valete de ouros",
+        "imagem": "jd.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "diamonds",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "jack"
+          }
+        ]
+      },
+      {
+        "nome": "Dama de ouros",
+        "imagem": "qd.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "diamonds",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "queen"
+          }
+        ]
+      },
+      {
+        "nome": "Rei de ouros",
+        "imagem": "kd.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "diamonds",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "king"
+          }
+        ]
+      },
+      {
+        "nome": "Ás de espadas",
+        "imagem": "as.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "spades",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "ace"
+          }
+        ]
+      },
+      {
+        "nome": "2 de espadas",
+        "imagem": "2s.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "spades",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "2"
+          }
+        ]
+      },
+      {
+        "nome": "3 de espadas",
+        "imagem": "3s.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "spades",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "3"
+          }
+        ]
+      },
+      {
+        "nome": "4 de espadas",
+        "imagem": "4s.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "spades",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "4"
+          }
+        ]
+      },
+      {
+        "nome": "5 de espadas",
+        "imagem": "5s.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "spades",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "5"
+          }
+        ]
+      },
+      {
+        "nome": "6 de espadas",
+        "imagem": "6s.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "spades",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "6"
+          }
+        ]
+      },
+      {
+        "nome": "7 de espadas",
+        "imagem": "7s.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "spades",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "7"
+          }
+        ]
+      },
+      {
+        "nome": "Valete de espadas",
+        "imagem": "js.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "spades",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "jack"
+          }
+        ]
+      },
+      {
+        "nome": "Dama de espadas",
+        "imagem": "qs.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "spades",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "queen"
+          }
+        ]
+      },
+      {
+        "nome": "Rei de espadas",
+        "imagem": "ks.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "spades",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "king"
+          }
+        ]
+      },
+      {
+        "nome": "Ás de copas",
+        "imagem": "ah.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "hearts",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "ace"
+          }
+        ]
+      },
+      {
+        "nome": "2 de copas",
+        "imagem": "2h.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "hearts",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "2"
+          }
+        ]
+      },
+      {
+        "nome": "3 de copas",
+        "imagem": "3h.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "hearts",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "3"
+          }
+        ]
+      },
+      {
+        "nome": "4 de copas",
+        "imagem": "4h.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "hearts",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "4"
+          }
+        ]
+      },
+      {
+        "nome": "5 de copas",
+        "imagem": "5h.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "hearts",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "5"
+          }
+        ]
+      },
+      {
+        "nome": "6 de copas",
+        "imagem": "6h.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "hearts",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "6"
+          }
+        ]
+      },
+      {
+        "nome": "7 de copas",
+        "imagem": "7h.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "hearts",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "7"
+          }
+        ]
+      },
+      {
+        "nome": "Valete de copas",
+        "imagem": "jh.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "hearts",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "jack"
+          }
+        ]
+      },
+      {
+        "nome": "Dama de copas",
+        "imagem": "qh.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "hearts",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "queen"
+          }
+        ]
+      },
+      {
+        "nome": "Rei de copas",
+        "imagem": "kh.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "hearts",
+            "predicado": "red"
+          },
+          {
+            "nome": "valor",
+            "valor": "king"
+          }
+        ]
+      },
+      {
+        "nome": "Ás de paus",
+        "imagem": "ac.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "clubs",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "ace"
+          }
+        ]
+      },
+       {
+        "nome": "2 de paus",
+        "imagem": "2c.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "clubs",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "2"
+          }
+        ]
+      },
+       {
+        "nome": "3 de paus",
+        "imagem": "3c.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "clubs",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "3"
+          }
+        ]
+      },
+       {
+        "nome": "4 de paus",
+        "imagem": "4c.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "clubs",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "4"
+          }
+        ]
+      },
+       {
+        "nome": "5 de paus",
+        "imagem": "5c.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "clubs",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "5"
+          }
+        ]
+      },
+       {
+        "nome": "6 de paus",
+        "imagem": "6c.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "clubs",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "6"
+          }
+        ]
+      },
+      {
+        "nome": "7 de paus",
+        "imagem": "7c.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "clubs",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "7"
+          }
+        ]
+      },
+      {
+        "nome": "Valete de paus",
+        "imagem": "jc.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "clubs",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "jack"
+          }
+        ]
+      },
+      {
+        "nome": "Dama de paus",
+        "imagem": "qc.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "clubs",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "queen"
+          }
+        ]
+      },
+      {
+        "nome": "Rei de paus",
+        "imagem": "kc.gif",
+        "atributo": [
+          {
+            "nome": "naipe",
+            "valor": "clubs",
+            "predicado": "black"
+          },
+          {
+            "nome": "valor",
+            "valor": "king"
+          }
+        ]
+      }
+    ]
+  }
+}

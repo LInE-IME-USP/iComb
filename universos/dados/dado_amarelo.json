@@ -1,0 +1,97 @@
+{
+  "universo": {
+    "nome": "Dado amarelo",
+    "elemento": [
+      {
+        "nome": "face 1",
+        "imagem": "af1.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "1",
+            "predicado": ""
+          },
+          {
+            "nome": "face",
+            "valor": "ímpar"
+          }
+        ]
+      },
+      {
+        "nome": "face 2",
+        "imagem": "af2.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "2",
+            "predicado": ""
+          },
+          {
+            "nome": "face",
+            "valor": "par"
+          }
+        ]
+      },
+      {
+        "nome": "face 3",
+        "imagem": "af3.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "3",
+            "predicado": ""
+          },
+          {
+            "nome": "face",
+            "valor": "ímpar"
+          }
+        ]
+      },
+      {
+        "nome": "face 4",
+        "imagem": "af4.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "4",
+            "predicado": ""
+          },
+          {
+            "nome": "face",
+            "valor": "par"
+          }
+        ]
+      },
+      {
+        "nome": "face 5",
+        "imagem": "af5.png",
+        "atributo": [
+          {
+            "nome": "valor",
+             "valor": "5",
+             "predicado": ""
+          },
+          {
+            "nome": "face",
+            "valor": "ímpar"
+          }
+        ]
+      },
+      {
+        "nome": "face 6",
+        "imagem": "af6.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "6",
+            "predicado": ""
+          },
+          {
+            "nome": "face",
+            "valor": "par"
+          }
+        ]
+      }
+    ]
+  }
+}

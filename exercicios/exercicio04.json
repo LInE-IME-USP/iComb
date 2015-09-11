@@ -1,0 +1,22 @@
+{
+    "Exercicio":
+        {
+            "enunGabarito": "Dois dados são lançados simultaneamente. Quantas sequências de resultados são possíveis?",
+            "tipoExercicio": 4,
+            "solucao": [
+                {
+                  "qtd": 6,
+                  "valor": "face"
+                },
+                {
+                  "qtd": 6,
+                  "valor": "face"
+                }
+            ],
+            "resposta": 36,
+            "universoTipo": "dados",
+            "universoSubTipo": "dados",
+            "dica": "Sabendo que cada dado tem seis faces numeradas, considere cada elemento da sequência como um número obtido em cada dado.",
+            "online": false
+        }
+}

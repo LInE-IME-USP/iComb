@@ -1,0 +1,22 @@
+{
+    "Exercicio":
+        {
+            "enunGabarito": "Um dado é lançado simultaneamente duas vezes. Quantas sequências de resultados são possíveis?",
+            "tipoExercicio": 4,
+            "solucao": [
+                {
+                  "qtd": 6,
+                  "valor": "face"
+                },
+                {
+                  "qtd": 6,
+                  "valor": "face"
+                }
+            ],
+            "resposta": 36,
+            "universoTipo": "dados",
+            "universoSubTipo": "dado_cinza",
+            "dica": "Sabendo que o dado tem seis faces numeradas.",
+            "online": false
+        }
+}

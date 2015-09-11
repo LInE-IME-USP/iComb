@@ -1,0 +1,98 @@
+{
+  "universo": {
+    "nome": "Transportes Terrestre",
+    "elemento": [
+
+          {
+            "nome": "Trem",
+            "imagem": "trem.png",
+            "atributo": [
+              {
+                "nome": "meio de transporte",
+                "valor": "grande porte",
+                "predicado": "cargas"
+              },
+              {
+                "nome": "transporte terrestre",
+                "valor": "pessoas"
+              }
+            ]
+          },
+          {
+            "nome": "Ônibus",
+            "imagem": "bus.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "grande porte",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte terrestre",
+              "valor": "pessoas"
+          }
+        ]
+      },
+      {
+            "nome": "Caminhão",
+            "imagem": "caminhao.png",
+            "atributo": [
+              {
+                "nome": "meio de transporte",
+                "valor": "grande porte",
+                "predicado": ""
+              },
+              {
+                "nome": "transporte terrestre",
+                "valor": "cargas"
+              }
+            ]
+          },
+          {
+            "nome": "Carro",
+            "imagem": "carro.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "médio porte",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte terrestre",
+              "valor": "pessoas"
+          }
+        ]
+      },
+       {
+            "nome": "Moto",
+            "imagem": "moto.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "pequeno porte",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte terrestre",
+              "valor": "pessoas"
+          }
+        ]
+      },
+       {
+            "nome": "Bicicleta",
+            "imagem": "bike.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "mini porte",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte terrestre",
+              "valor": "pessoas"
+          }
+        ]
+      }
+    ]
+   }
+}

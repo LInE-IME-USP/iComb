@@ -1,0 +1,22 @@
+{
+    "Exercicio":
+        {
+            "enunGabarito": "Existem 11 jogadores de futebol de salão do time verde, entre eles Diego, que por sinal é o único que joga como goleiro. Nessas condições, quantos times de 5 pessoas podem ser escalados?",
+            "tipoExercicio": 3,
+            "solucao": [
+                {
+                  "qtd": 1,
+                  "valor": "goleiro"
+                },
+                {
+                  "qtd": 4,
+                  "valor": "jogadores"
+                }
+            ],
+            "resposta": 210,
+            "universoTipo": "futebol",
+            "universoSubTipo": "futebol_verde",
+            "dica": "No time de futebol temos 11 jogadores sendo que o goleiro tem camisa de cor diferenciada.",
+            "online": false
+        }
+}

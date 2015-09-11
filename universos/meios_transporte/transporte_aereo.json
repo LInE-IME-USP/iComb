@@ -1,0 +1,67 @@
+{
+  "universo": {
+    "nome": "Transportes Terrestre",
+    "elemento": [
+          {
+            "nome": "Avião",
+            "imagem": "aviao.png",
+            "atributo": [
+           {
+             "nome": "meio de transporte",
+             "valor": "grande porte",
+             "predicado": "cargas"
+            },
+            {
+              "nome": "transporte aéreo",
+              "valor": "pessoas"
+          }
+        ]
+      },
+      {
+            "nome": "Helicóptero",
+            "imagem": "helicoptero.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "médio porte",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte aéreo",
+              "valor": "pessoas"
+          }
+        ]
+      },
+      {
+            "nome": "Balão",
+            "imagem": "balao.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "grande porte",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte aéreo",
+              "valor": "pessoas"
+          }
+        ]
+      },
+      {
+            "nome": "Foguete",
+            "imagem": "foguete.png",
+            "atributo": [
+            {
+             "nome": "meio de transporte",
+             "valor": "porte mega",
+             "predicado": ""
+            },
+            {
+              "nome": "transporte aéreo",
+              "valor": "pessoas"
+          }
+        ]
+      }
+    ]
+  }
+}

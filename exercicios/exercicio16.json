@@ -1,0 +1,22 @@
+{
+    "Exercicio":
+        {
+            "enunGabarito": "Com um baralho de 40 cartas, quantas mãos de 2 cartas é possível formar com exatamente uma Dama e um Ás?",
+            "tipoExercicio": 1,
+            "solucao": [
+                {
+                  "qtd": 1,
+                  "value": "queen"
+                },
+                {
+                  "qtd": 1,
+                  "value": "ace"
+                }
+            ],
+            "resposta": 16,
+            "universoTipo": "algarismos",
+            "universoSubTipo": "algarismos",
+            "dica": "Um baralho de 40 cartas corresponde a um baralho comum sem as cartas cujos valores são maiores que sete. Portanto, um baralho de 40 cartas possui 10 cartas de cada naipe (2, 3, 4, 5, 6, 7, Valete, Dama, Rei e Ás)",
+            "online": false
+        }
+}

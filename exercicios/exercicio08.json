@@ -1,0 +1,22 @@
+{
+    "Exercicio":
+        {
+            "enunGabarito": "Existem 11 jogadores de futebol de salão do time do América de Cáli, entre eles Diego, que por sinal é o único que joga como goleiro. Nessas condições, quantas escalações de 5 jogadores são possíveis para iniciar a partida?",
+            "tipoExercicio": 3,
+            "solucao": [
+                {
+                  "qtd": 1,
+                  "valor": "goleiro"
+                },
+                {
+                  "qtd": 4,
+                  "valor": "jogadores"
+                }
+            ],
+            "resposta": 210,
+            "universoTipo": "futebol",
+            "universoSubTipo": "futebol_vermelho",
+            "dica": "No time de futebol temos 11 jogadores sendo que o goleiro tem camisa de cor diferenciada.",
+            "online": false
+        }
+}

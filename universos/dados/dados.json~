@@ -1,182 +1,184 @@
 {
   "universo": {
-    "nome": "Dados",
+    "nome": "Dice",
     "elemento": [
       {
-        "nome": "dado branco face 1",
-        "imagem": "wf1.png",
+        "nome": "face 1",
+        "imagem": "af1.png",
         "atributo": [
           {
-            "nome": "suit",
+            "nome": "valor",
             "valor": "1",
-            "predicado": "white"
+            "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "uneven"
+            "nome": "face",
+            "valor": "ímpar"
           }
         ]
       },
       {
-        "nome": "dado branco face 2",
-        "imagem": "wf2.png",
+        "nome": "face 2",
+        "imagem": "af2.png",
         "atributo": [
           {
-            "nome": "suit",
+            "nome": "valor",
             "valor": "2",
-            "predicado": "white"
+            "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "even"
+            "nome": "face",
+            "valor": "par"
           }
         ]
       },
       {
-        "nome": "dado branco face 3",
-        "imagem": "wf3.png",
+        "nome": "face 3",
+        "imagem": "af3.png",
         "atributo": [
           {
+            "nome": "valor",
             "valor": "3",
-            "predicado": "white"
+            "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "uneven"
+            "nome": "face",
+            "valor": "ímpar"
           }
         ]
       },
       {
-        "nome": "dado branco face 4",
-        "imagem": "wf4.png",
+        "nome": "face 4",
+        "imagem": "af4.png",
         "atributo": [
           {
-            "nome": "suit",
+            "nome": "valor",
             "valor": "4",
-            "predicado": "white"
+            "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "even"
+            "nome": "face",
+            "valor": "par"
           }
         ]
       },
       {
-        "nome": "dado branco face 5",
-        "imagem": "wf5.png",
+        "nome": "face 5",
+        "imagem": "af5.png",
         "atributo": [
           {
-            "nome": "suit",
+            "nome": "valor",
              "valor": "5",
-            "predicado": "white"
+             "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "uneven"
+            "nome": "face",
+            "valor": "ímpar"
           }
         ]
       },
       {
-        "nome": "dado branco face 6",
-        "imagem": "wf6.png",
+        "nome": "face 6",
+        "imagem": "af6.png",
         "atributo": [
           {
-            "nome": "suit",
+            "nome": "valor",
             "valor": "6",
-            "predicado": "white"
+            "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "even"
+            "nome": "face",
+            "valor": "par"
           }
         ]
       },
-      {
-        "nome": "dado vermelho face 1",
-        "imagem": "rf1.png",
+       {
+        "nome": "face 1",
+        "imagem": "cf1.png",
         "atributo": [
           {
-            "nome": "suit",
+            "nome": "valor",
             "valor": "1",
-            "predicado": "red"
+            "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "uneven"
+            "nome": "face",
+            "valor": "ímpar"
           }
         ]
       },
       {
-        "nome": "dado vermelho face 2",
-        "imagem": "rf2.png",
+        "nome": "face 2",
+        "imagem": "cf2.png",
         "atributo": [
           {
-            "nome": "suit",
+            "nome": "valor",
             "valor": "2",
-            "predicado": "red"
+            "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "even"
+            "nome": "face",
+            "valor": "par"
           }
         ]
       },
       {
-        "nome": "dado vermelho face 3",
-        "imagem": "rf3.png",
+        "nome": "face 3",
+        "imagem": "cf3.png",
         "atributo": [
           {
+            "nome": "valor",
             "valor": "3",
-            "predicado": "red"
+            "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "uneven"
+            "nome": "face",
+            "valor": "ímpar"
           }
         ]
       },
       {
-        "nome": "dado vermelho face 4",
-        "imagem": "rf4.png",
+        "nome": "face 4",
+        "imagem": "cf4.png",
         "atributo": [
           {
-            "nome": "suit",
+            "nome": "valor",
             "valor": "4",
-            "predicado": "red"
+            "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "even"
+            "nome": "face",
+            "valor": "par"
           }
         ]
       },
       {
-        "nome": "dado vermelho face 5",
-        "imagem": "rf5.png",
+        "nome": "face 5",
+        "imagem": "cf5.png",
         "atributo": [
           {
-            "nome": "suit",
+            "nome": "valor",
              "valor": "5",
-            "predicado": "red"
+             "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "uneven"
+            "nome": "face",
+            "valor": "ímpar"
           }
         ]
       },
       {
-        "nome": "dado vermelho face 6",
-        "imagem": "rf6.png",
+        "nome": "face 6",
+        "imagem": "cf6.png",
         "atributo": [
           {
-            "nome": "suit",
+            "nome": "valor",
             "valor": "6",
-            "predicado": "red"
+            "predicado": ""
           },
           {
-            "nome": "value",
-            "valor": "even"
+            "nome": "face",
+            "valor": "par"
           }
         ]
       }

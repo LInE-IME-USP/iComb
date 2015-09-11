@@ -1,0 +1,157 @@
+{
+  "universo": {
+    "nome": "Algarismos",
+    "elemento": [
+          {
+        "nome": "algarismo 0",
+        "imagem": "0.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "0",
+            "predicado": ""
+          },
+          {
+            "nome": "algarismo",
+            "valor": "par"
+          }
+        ]
+      },
+      {
+      	"nome": "algarismo 1",
+        "imagem": "1.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "1",
+            "predicado": ""
+          },
+          {
+            "nome": "algarismo",
+            "valor": "ímpar"
+          }
+        ]
+      },
+      {
+        "nome": "algarismo 2",
+        "imagem": "2.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "2",
+            "predicado": ""
+          },
+          {
+            "nome": "algarismo",
+            "valor": "par"
+          }
+        ]
+      },
+      {
+        "nome": "algarismo 3",
+        "imagem": "3.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "3",
+            "predicado": ""
+          },
+          {
+            "nome": "algarismo",
+            "valor": "ímpar"
+          }
+        ]
+      },
+      {
+        "nome": "algarismo 4",
+        "imagem": "4.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "4",
+            "predicado": ""
+          },
+          {
+            "nome": "algarismo",
+            "valor": "par"
+          }
+        ]
+      },
+      {
+        "nome": "algarismo 5",
+        "imagem": "5.png",
+        "atributo": [
+          {
+            "nome": "valor",
+             "valor": "5",
+             "predicado": ""
+          },
+          {
+            "nome": "algarismo",
+            "valor": "ímpar"
+          }
+        ]
+      },
+      {
+        "nome": "algarismo 6",
+        "imagem": "6.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "6",
+            "predicado": ""
+          },
+          {
+            "nome": "algarismo",
+            "valor": "par"
+          }
+        ]
+      },
+      {
+        "nome": "algarismo 7",
+        "imagem": "7.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "7",
+            "predicado": ""
+          },
+          {
+            "nome": "algarismo",
+            "valor": "ímpar"
+          }
+        ]
+      },
+      {
+        "nome": "algarismo 8",
+        "imagem": "8.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "8",
+            "predicado": ""
+          },
+          {
+            "nome": "algarismo",
+            "valor": "par"
+          }
+        ]
+      },
+      {
+        "nome": "algarismo 9",
+        "imagem": "9.png",
+        "atributo": [
+          {
+            "nome": "valor",
+            "valor": "9",
+            "predicado": ""
+          },
+          {
+            "nome": "algarismo",
+            "valor": "ímpar"
+          }
+        ]
+      }
+    ]
+  }
+}

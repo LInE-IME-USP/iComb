@@ -1,0 +1,22 @@
+{
+    "Exercicio":
+        {
+            "enunGabarito": "Uma urna contêm 10 bolas vermelhas e 10 bolas azuis, em duas retiradas com reposição, quantas são as possibilidades de retirar 1 bola vermalha e a outra azul?",
+            "tipoExercicio": 2,
+            "solucao": [
+                {
+                  "qtd": 1,
+                  "valor": "azuis"
+                },
+                {
+                  "qtd": 1,
+                  "valor": "vermelhas"
+                }
+            ],
+            "resposta": 0,
+            "universoTipo": "bolas",
+            "universoSubTipo": "bolas",
+            "dica": "Temos 10 bolas enumeradas vermelhas e 10 bolas enumeradas azuis",
+            "online": false
+        }
+}

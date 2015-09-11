@@ -1,0 +1,127 @@
+{
+  "universo": {
+    "nome": "Automoveis",
+    "elemento": [
+      {
+        "nome": "carro de 2 portas amarelo",
+        "imagem": "car2am.png",
+        "atributo": [
+          {
+            "nome": "carro",
+            "valor": "2 portas",
+            "predicado": ""
+          },
+          {
+            "nome": "cor",
+            "valor": "amarelo"
+          }
+        ]
+      },
+      {
+      "nome": "carro de 2 portas azul",
+        "imagem": "car2az.png",
+        "atributo": [
+          {
+            "nome": "carro",
+            "valor": "2 portas",
+            "predicado": ""
+          },
+          {
+            "nome": "cor",
+            "valor": "azul"
+          }
+        ]
+      },
+      {
+       "nome": "carro de 2 portas vermelho",
+        "imagem": "car2vm.png",
+        "atributo": [
+          {
+            "nome": "carro",
+            "valor": "2 portas",
+            "predicado": ""
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelho"
+          }
+        ]
+      },
+      {
+        "nome": "carro de 2 portas verde",
+        "imagem": "car2vd.png",
+        "atributo": [
+          {
+            "nome": "carro",
+            "valor": "2 portas",
+            "predicado": ""
+          },
+          {
+            "nome": "cor",
+            "valor": "verde"
+          }
+        ]
+      },
+      {
+        "nome": "carro de 4 portas amarelo",
+        "imagem": "car4am.png",
+        "atributo": [
+          {
+            "nome": "carro",
+            "valor": "4 portas",
+            "predicado": ""
+          },
+          {
+            "nome": "cor",
+            "valor": "amarelo"
+          }
+        ]
+      },
+      {
+      "nome": "carro de 4 portas azul",
+        "imagem": "car4az.png",
+        "atributo": [
+          {
+            "nome": "carro",
+            "valor": "4 portas",
+            "predicado": ""
+          },
+          {
+            "nome": "cor",
+            "valor": "azul"
+          }
+        ]
+      },
+      {
+       "nome": "carro de 4 portas vermelho",
+        "imagem": "car4vm.png",
+        "atributo": [
+          {
+            "nome": "carro",
+            "valor": "4 portas",
+            "predicado": ""
+          },
+          {
+            "nome": "cor",
+            "valor": "vermelho"
+          }
+        ]
+      },
+      {
+        "nome": "carro de 4 portas verde",
+        "imagem": "car4vd.png",
+        "atributo": [
+          {
+            "nome": "carro",
+            "valor": "4 portas",
+            "predicado": ""
+          },
+          {
+            "nome": "cor",
+            "valor": "verde"
+          }
+        ]
+      }
+    ]
+  }
+}

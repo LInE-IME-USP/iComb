@@ -1,0 +1,22 @@
+{
+    "Exercicio":
+        {
+            "enunGabarito": "Se sortearmos uns números... são possíveis?",
+            "tipoExercicio": 4,
+            "solucao": [
+                {
+                  "qtd": 1,
+                  "valor": "número"
+                },
+                {
+                  "qtd": 5,
+                  "valor": "ímpar"
+                }
+            ],
+            "resposta": 36,
+            "universoTipo": "meios_transporte",
+            "universoSubTipo": "meios_transporte",
+            "dica": ".",
+            "online": false
+        }
+}

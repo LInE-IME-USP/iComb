@@ -1,0 +1,22 @@
+{
+    "Exercicio":
+        {
+            "enunGabarito": "Quantos subconjuntos de 5 cartas contendo exatamente 3 ases podem ser formados de um baralho de 52 cartas?",
+            "tipoExercicio": 5,
+            "solucao": [
+                {
+                  "qtd": 2,
+                  "value": "queen"
+                },
+                {
+                  "qtd": 3,
+                  "value": "ace"
+                }
+            ],
+            "resposta": 16,
+            "universoTipo": "baralho",
+            "universoSubTipo": "baralho52",
+            "dica": "Um baralho de 32 cartas corresponde a um baralho comum sem as cartas cujos valores são menores do que Sete. Portanto, um baralho de 32 cartas possui 8 cartas de cada naipe (7, 8, 9, 10, Valete, Dama, Rei e Ás)",
+            "online": false
+        }
+}

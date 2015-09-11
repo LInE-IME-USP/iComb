@@ -1,0 +1,67 @@
+{
+  "universo": {
+    "nome": "Transportes Aquáticos",
+    "elemento": [
+          {
+            "nome": "Navio",
+            "imagem": "navio.png",
+            "atributo": [
+              {
+                "nome": "meio de transporte",
+                "valor": "grande porte",
+                "predicado": "cargas"
+              },
+              {
+                "nome": "transporte aquático",
+                "valor": "pessoas"
+              }
+            ]
+          },
+          {
+            "nome": "Barco",
+            "imagem": "barco.png",
+            "atributo": [
+              {
+                "nome": "meio de transporte",
+                "valor": "pequeno porte",
+                "predicado": ""
+              },
+              {
+                "nome": "transporte aquático",
+                "valor": "pessoas"
+              }
+            ]
+          },
+           {
+            "nome": "Lancha",
+            "imagem": "lancha.png",
+            "atributo": [
+              {
+                "nome": "meio de transporte",
+                "valor": "médio porte",
+                "predicado": ""
+              },
+              {
+                "nome": "transporte aquático",
+                "valor": "pessoas"
+              }
+            ]
+          },
+           {
+            "nome": "Jetski",
+            "imagem": "jetski.png",
+            "atributo": [
+              {
+                "nome": "meio de transporte",
+                "valor": "pequeno porte",
+                "predicado": ""
+              },
+              {
+                "nome": "transporte aquático",
+                "valor": "pessoas"
+              }
+            ]
+          }
+    ]
+  }
+}
